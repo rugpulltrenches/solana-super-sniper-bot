@@ -70,4 +70,4 @@ Update the following environment variables in your backend `.env` file:
 
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- Telegram: [@lilm0at](https://t.me/lilm0at)
+- Telegram: [@Oxlilmoat](https://t.me/Oxlilmoat)
