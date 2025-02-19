@@ -1,11 +1,9 @@
-## Raydium Sniper Bot
+# Solana Super Sniper Bot
 
-#### Description:
+## Description  of the Solana Super Sniper Bot
 The Raydium Sniper Bot aims to catch new pools on Raydium and execute buy/sell transactions to make a profit. It allows for manual and automated trading, giving users the flexibility to optimize their strategies and maximize returns.
 
-https://youtu.be/JeY71PSXbgU
-
-#### Features:
+## Solana Super Sniper Bot Features:
 - **Wallet Registration**: Register your own wallet for transactions.
 - **Track New Pools on Raydium**: Monitor new pools and filter them based on SOL amount. Filter feature can be disabled, and if disabled, catch all pools.
 - **Buy and Sell**: 
@@ -14,7 +12,7 @@ https://youtu.be/JeY71PSXbgU
   - Auto buy and sell with specific amount, time delay, profit, and loss percentages.
   - Jito Mode: Execute transactions with Jito mode, allowing manual adjustment of Jito fees.
 
-## Getting Started
+## Getting Started with the Solana Super Sniper Bot
 
 To use this Solana Bot Package, you will need to have a basic understanding of Solana, Raydium, and automated trading. Follow the instructions below to get started:
 
@@ -34,7 +32,7 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
      npm run start
      ```
 
-## Configuration Guide
+## Configuration Guide for the Solana Super Sniper Bot
 
 ### Frontend Configuration
 Update the following environment variables in your frontend `.env` file:
@@ -70,4 +68,5 @@ Update the following environment variables in your backend `.env` file:
 
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- Telegram: [@littlemoat](https://t.me/littlemoat)
+- Telegram: https://t.me/rugpulltrenches
+- Twitter: https://twitter.com/rugpulltrenches
